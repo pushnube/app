@@ -1,0 +1,8 @@
+{
+  "name": "miSuperApp",
+  "app_id": "a64cb979",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
